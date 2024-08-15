@@ -12,7 +12,7 @@ function App(){
 
     return <>
         <NavBar/>
-        <ItemListContainer mensaje="Hola"/>
+        <ItemListContainer titulo="Bienvenido/a"/>
         </> 
 }
 

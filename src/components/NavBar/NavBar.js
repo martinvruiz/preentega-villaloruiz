@@ -9,13 +9,13 @@ export const NavBar = ()=>{
                     <a className="font-bold text-xl" href="#">Proelec</a>
                 </li>
                 <li className="mx-6">
-                    <a href="#">Termicas y Diferenciales</a>
+                    <a href="#">Electricidad</a>
                 </li>
                 <li className="mx-6">
-                    <a href="#">Cable</a>
+                    <a href="#">Iluminacion</a>
                 </li>
             </ul>
-            <CartWidget/>
+            <CartWidget ItemNum="314"/>
         </nav>
     </>
 }
